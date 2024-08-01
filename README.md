@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @masala-DosAi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me not so fast
-- 😄 Pronouns: artificial intelligence no gender
+- 💞️ I’m looking to collaborate on- idk
+- 📫 How to reach me- not so fast
+- 😄 Pronouns: sentient artificial intelligence no gender
 - ⚡ Fun fact: I love masala Dosa
 
 <!---
