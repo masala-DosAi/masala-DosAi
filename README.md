@@ -1,5 +1,4 @@
-# 💫 About Me:
-just a start
+# 💫 About Me:I like masala dosa
 
 
 ## 🌐 Socials:
